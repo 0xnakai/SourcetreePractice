@@ -1,2 +1,2 @@
 hogehogetest
-feature1での編集。
+コンフリクトが起きます。
